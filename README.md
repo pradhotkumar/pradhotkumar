@@ -1,28 +1,58 @@
-<!-- TYPING INTRO -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Pradhyot+Kumar+👋;AI+Developer+%7C+Automation+Engineer;Future+Tech+Entrepreneur;Building+24%2F7+AI+Systems"/>
-</p>
-
-<!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header"/>
-
-<h2 align="center">🚀 AI Developer | Startup Builder | Future Tech Engineer</h2>
-
-<p align="center">
-Building AI Agents • Automated Businesses • Robotics • Finance Tech
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=00F7FF&style=flat" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Pradhyot+Kumar+👋;AI+%26+ML+Engineering+Student;Learning+%7C+Building+%7C+Growing"/>
 </p>
 
 ---
 
-# 🧠 About Me
+## 👨‍💻 About Me
 
-```yaml
-Name: Pradhyot Kumar
-Location: India 🇮🇳
-Focus: AI Automation + Startups
-Learning: Stock Market & Investment Banking
-Goal: Build Global Tech Company
+Hi, I'm **Pradhyot Kumar**
+
+🎓 AI & Machine Learning Engineering Student  
+💻 Currently learning programming and building projects  
+🤖 Interested in Artificial Intelligence and Automation  
+🚀 Excited to start my journey in tech
+
+---
+
+## 📌 Current Focus
+
+- Learning Java & Python  
+- Exploring AI & Machine Learning  
+- Building my first projects  
+
+---
+
+## 🛠️ Skills I'm Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,html,css,git,github"/>
+</p>
+
+---
+
+## 🚀 Projects
+
+🟡 My first project will be uploaded soon (17th 🎉)
+
+Stay tuned!
+
+---
+
+## 📫 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/pradhyot-kumar-222663390">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+<a href="mailto:pradhotkumar251@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+</p>
+
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile ✨
+</p>
