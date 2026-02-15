@@ -1,16 +1,28 @@
-## Hi there 👋
+<!-- TYPING INTRO -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Pradhyot+Kumar+👋;AI+Developer+%7C+Automation+Engineer;Future+Tech+Entrepreneur;Building+24%2F7+AI+Systems"/>
+</p>
 
-<!--
-**pradhotkumar/pradhotkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header"/>
 
-Here are some ideas to get you started:
+<h2 align="center">🚀 AI Developer | Startup Builder | Future Tech Engineer</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Building AI Agents • Automated Businesses • Robotics • Finance Tech
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=00F7FF&style=flat" />
+</p>
+
+---
+
+# 🧠 About Me
+
+```yaml
+Name: Pradhyot Kumar
+Location: India 🇮🇳
+Focus: AI Automation + Startups
+Learning: Stock Market & Investment Banking
+Goal: Build Global Tech Company
